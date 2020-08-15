@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Frederik Riedel"
-  avatar           : /macbattlecode.github.io/assets/images/biopic.jpg
+  avatar           : /assets/images/biopic.jpg
   bio              : "I am an **amazing** person."
   location         : "York"
   email            :
