@@ -1,4 +1,5 @@
 ---
+author_profile: true
 title:  "That's me!"
 ---
 
