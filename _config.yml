@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Frederik Riedel"
   avatar           : /assets/images/biopic.jpg
-  bio              : "I am an **amazing** person."
+  bio              : "Put text here..."
   location         : "York, UK"
   email            :
   links:
@@ -113,10 +113,13 @@ author:
     #  # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/FrederikRiedel"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/fr3d_ster/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/frederik-riedel-phd-05261a146/"
 
 # Site Footer
 footer:
