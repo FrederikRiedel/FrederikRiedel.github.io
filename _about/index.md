@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "That's me!"
 ---
 
