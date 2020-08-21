@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+layout: home
+title:  "That's me!"
 ---
 
 # Welcome
